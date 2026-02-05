@@ -1,5 +1,5 @@
 # 💫 About Me:
- - 🔭 Building Discord bots & web projects  <br> - 🌱 Learning full-stack development and system design  <br> - ⚡ Exploring automation, SaaS ideas, and startup concepts  <br>
+<br> - 🔭 Building Discord bots & web projects <br> <br> - 🌱 Learning full-stack development and system design  <br> - ⚡ Exploring automation, SaaS ideas, and startup concepts  <br>
 
 
 ## 🌐 Socials:
